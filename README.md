@@ -2,15 +2,16 @@
 
 🚀 Currently working on my TY project using SQL , Java and Python. Open to collaboration and always learning!
 
-💻 Check out my projects at https://github.com/snehaxaaa?tab=repositories. Let's connect and build something awesome together!
+💻 Check out my projects at https://github.com/snehaxaaa?tab=repositories. 
 
 📫 Reach out to me via
 
-📷 instagram : (https://www.instagram.com/sneyeahhh/)
+📷 instagram : https://www.instagram.com/sneyeahhh/
 
 📧 gmail: snehakachare.0802@gmail.com
 
 💼 linkdin: https://www.linkedin.com/in/sneha-kachare-b2b307294/
 
+Let's connect and build something awesome together!
 Happy coding! 🚀
 
