@@ -5,9 +5,12 @@
 💻 Check out my projects at https://github.com/snehaxaaa?tab=repositories. Let's connect and build something awesome together!
 
 📫 Reach out to me via
-instagram : sneyeahhh
-gmail: snehakachare.0802@gmail.com
-linkdin: sneha kachare
+
+📷 instagram : (https://www.instagram.com/sneyeahhh/)
+
+📧 gmail: snehakachare.0802@gmail.com
+
+💼 linkdin: https://www.linkedin.com/in/sneha-kachare-b2b307294/
 
 Happy coding! 🚀
 
